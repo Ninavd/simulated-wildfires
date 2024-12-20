@@ -1,6 +1,6 @@
 # Wildfire visualisation &#127794;&#128293;
 Repository containing rendered animations of wildfire simulations from different viewing angles mountains of increasing roundness.
-Frames were rendered and saved with Paraview 5.13.1 and the animations were compiled with `ffmpeg`.
+Frames were rendered and saved with Paraview 5.13.1 and the animations were compiled with `ffmpeg`. All ParaView state files can be found in the root repository.
 The wind flow is from left to right (windward fire)
 
 # Videos comparing different simulations 
