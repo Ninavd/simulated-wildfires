@@ -1,4 +1,4 @@
-# Wildfire visualisation
+# Wildfire visualisation &#127794;&#128293;
 Repository containing rendered animations of wildfire simulations from different viewing angles mountains of increasing roundness.
 Constructed with Paraview 5.13.1
 The wind flow is from left to right (windward fire)
@@ -16,7 +16,7 @@ Compare the fire progression of the three topographies.
 https://github.com/user-attachments/assets/c198a9d1-1e34-45b2-9813-a3de662df629
 
 # Single view videos
-If you want to take a closer look at a specific mountain and view.
+In case you'd like to to take a closer look at a specific mountain and view.
 
 ## Side views
 https://github.com/user-attachments/assets/886a8587-aace-4574-b4d2-aee1d83fde93
