@@ -1,5 +1,6 @@
-# simulated-wildfires
-Repository containing rendered animations of wildfire simulations from different viewing angles
+# Wildfire visualisation
+Repository containing rendered animations of wildfire simulations from different viewing angles mountains of increasing roundness.
+The wind flow is from left to right (windward fire)
 
 
 https://github.com/user-attachments/assets/886a8587-aace-4574-b4d2-aee1d83fde93
